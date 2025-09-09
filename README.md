@@ -13,6 +13,7 @@
 ## Course Objectives & Prerequisites:
 
 This is a two-semester-long course primarily designed for graduate students. However, undergraduate students with demonstrated strong backgrounds in probability, statistics (e.g., linear & logistic regressions), numerical linear algebra and optimization are also welcome to register. We will be pursuing the objective of familiarizing the students with state-of-the-art deep learning techniques employed in the industry. Deep learning is a field that has been witnessing a mini-revolution every few months. It is therefore very important that the students registering for this course are eager to learn new concepts. So much of deep learning is just software engineering. Consequently, the students should be able to write clean code while doing their assignments. Python will be the programming language used in this course. Familiarity with TensorFlow and PyTorch is a plus but is not a requirement. However, it is very important that the students are willing to do the hard work to learn and use these two frameworks as the course progresses.
+Refer links given below.
 
 ## Part I Topics (Fall Semester)
 
